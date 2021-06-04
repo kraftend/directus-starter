@@ -31,5 +31,5 @@ trim_trailing_whitespace = false
 indent_style = space
 indent_size = 2
 
-[*.{js,ts}]
+[*.{js,ts,vue}]
 quote_type = "single"
